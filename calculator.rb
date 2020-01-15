@@ -1,1 +1,1 @@
-first_numb = 7# Add your variables here
+first_number = 1
